@@ -276,8 +276,9 @@ body{
 
 .enjoy__search{
 	flex: 0 0 auto;
-	background-color: #fff;
+	background-color:#bbb;
 	box-shadow: -1px 2px 10px  #aaa;
+	opacity:0.5;
 }
 
 .enjoy__search form
@@ -287,6 +288,7 @@ body{
 	padding: 20px;
 	
 	display: block;
+	background-color: #bbb;
 	
 }
 
@@ -518,7 +520,9 @@ body{
 	padding-bottom: 50px;
 }
 .packages__title{font-size: 30px; font-weight: 500;}
-.packages__subtitle{font-size: 14px;}
+.packages__subtitle{font-size: 14px;
+	margin-top: 2%;
+}
 
 .packages__column
 {

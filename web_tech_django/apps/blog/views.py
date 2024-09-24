@@ -17,14 +17,15 @@ from django.contrib.auth.decorators import login_required
 
 
 team_members = ({
-    "fname": "Muhamedi",
-    "lname": "Nurmuhammed",
-    "bdate": 2002,
-    "email": "nurmoohamedi@gmail.com",
-    "phone": "+77471970242",
-    "group": "ITSE-1902",
-    "position": "Director/Developer"
-})
+    "fname": "Khushi",
+    "lname": "Patel",
+    "bdate": 2005,
+    "email": "khushipatel0115@gmail.com",
+    "phone": "+91 9104109489",
+    "group": "Main",
+    "position": "Owner/Developer"
+}
+                )
 
 # --------- Site Pages ----------------
 
